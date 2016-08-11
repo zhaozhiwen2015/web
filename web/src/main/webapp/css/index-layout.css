@@ -1,0 +1,50 @@
+.west-class-title{
+	text-align:left;
+}
+
+.west_menu_ul{
+	padding:0px 10px;
+	margin:0px;
+	list-style-type:none;
+	clear:both;
+}
+.west_menu_ul li{
+	line-height:26px;
+	text-indent:0.6pc;
+	text-align:left;
+	border-bottom:1px dashed rgb(208,208,208);
+	background-image:url(../images/ico_1.gif);
+	background-repeat:no-repeat;
+	background-position:left;
+}
+.west_menu_ul li label,.west_menu_ul li a{
+	font-size:12px;
+	color:black;
+	text-decoration:none;
+	cursor:pointer;
+	display:block;
+}
+.west_menu_ul li label:hover,.west_menu_ul li a:hover{
+	color:red;
+}
+.input_code{
+	width:96px;
+	border:1px solid rgb(211,211,211);
+	height:28px;
+	line-height:28px;
+}
+.input_98{
+	padding-left:10px;
+	width:86px;
+	border:1px solid rgb(211,211,211);
+	height:25px;
+	line-height:25px;
+}
+.input_195{
+	padding-left:10px;
+	width:185px;
+	border:1px solid rgb(211,211,211);
+	height:25px;
+	line-height:25px;
+}
+

@@ -1,0 +1,23 @@
+package cn.net.zhaozhiwen.common.springdatajpa.ext.utils;
+
+public enum QueryCodeType {
+	IS_NULL, 
+	IS_NOT_NULL, 
+	LESS_THAN, 
+	LESS_THAN_OR_EQUAL, 
+	EQUAL,
+	GREATER_THAN,
+	GREATER_THAN_OR_EQUAL, 
+	NOT_EQUAL, 
+	IN, 
+	NOT_IN,
+	LIKE, 
+	LIKE_IGNORECASE, 
+	NOT_LIKE, 
+	NOT_LIKE_IGNORECASE, 
+	EQUAL_IGNORECASE, 
+	NOT_EQUAL_IGNORECASE, 
+	START_WITH,
+	PAGE_NUM,
+	PAGE_SIZE
+}

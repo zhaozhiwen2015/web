@@ -1,0 +1,4 @@
+mvn install:install-file -DgroupId=google -DartifactId=patchca -Dversion=0.5.0 -Dpackaging=jar -Dfile=D:\\dev-soft\\work2\\web\\src\\main\\resources\\patchca-0.5.0.jar
+
+
+<%-- <%@ taglib prefix="c"    uri="http://java.sun.com/jsp/jstl/core" %> --%>
